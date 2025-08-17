@@ -1,0 +1,3 @@
+JQUEY_URL = https://jqueryui.com/checkboxradio/
+DEALSHARE_URL = https://www.dealshare.in/
+PINCODE = 302021
